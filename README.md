@@ -31,10 +31,13 @@ Esta tela é o ponto de interação para gerenciar o inventário de excursões e
 
 *(Sugestão: Inclua capturas de tela, especialmente da HomeScreen mostrando a lista e a barra de pesquisa, e da AddExcursionScreen mostrando os campos de input.)*
 
-![Captura de tela da HomeScreen](link_para_a_tela_principal_com_lista_e_barra_de_busca.png)
+![Captura de tela da HomeScreen](https://drive.google.com/file/d/11t8a6L8LEyD54QcqaeeXDPuP_6tv_4m5/view?usp=drive_link)
 *Exemplo: Acesso imediato aos dados de localização e ferramentas de busca.*
 
-![Captura de tela da AddExcursionScreen](link_para_a_tela_de_adicao_e_edicao.png)
+![Captura de tela da HomeScreen](https://drive.google.com/file/d/1gYSlCv2YkbVRjVIJ0l1Zk39HE8hKo7a2/view?usp=drive_link)
+*Exemplo: Acesso imediato aos dados de localização e ferramentas de busca.*
+
+![Captura de tela da AddExcursionScreen](https://drive.google.com/file/d/1rrn1_-5NaMxJBkzbZb17-MaQIseNAid4/view?usp=drive_link)
 *Exemplo: Tela de registro de nova excursão ou edição de dados existentes.*
 
 ## 🛠️ Tecnologias Utilizadas
@@ -97,12 +100,11 @@ Para gerar um arquivo `.apk` para testes (distribuição interna), certifique-se
     }
   }
 }
----
-
+```
 ## 🤝 Contribuição e Licença
 
 * **Contexto Acadêmico 🎓**
-    Desenvolvido por **[GedeonTheGuardian]** como projeto final para a disciplina de **Programação Para Dispositivos Móveis em Android** no curso de **Ciências da Computação**.
+    Desenvolvido por **[GydeonTheGuardian]** como projeto final para a disciplina de **Programação Para Dispositivos Móveis em Android** no curso de **Ciências da Computação**.
 
 * **Contribuição**
     Contribuições para refinar a arquitetura ou expandir a solução são muito apreciadas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests*.
@@ -112,4 +114,4 @@ Para gerar um arquivo `.apk` para testes (distribuição interna), certifique-se
 
 ---
 
-Feito com ❤️ por **[GedeonTheGuardian e Toda Equipe WALFF]**
+Feito com ❤️ por **[GydeonTheGuardian e Toda Equipe WALFF]**
