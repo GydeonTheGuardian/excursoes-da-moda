@@ -1,6 +1,6 @@
 # 📍 Excursões da Moda: Logística Inteligente para o Polo de Confecções
 
-O **Excursões da Moda** é um projeto desenvolvido para a disciplina de Programação Para Dispositivos Móveis em Android (Ciências da Computação). Ele atua como uma **solução de logística e localização** projetada para eliminar o caos na área de recebimento e despacho de mercadorias por meio de excursões no polo de confecções.
+**Excursões da Moda** é um projeto desenvolvido para a disciplina de Programação Para Dispositivos Móveis em Android (Ciências da Computação). Ele atua como uma **solução de logística e localização** projetada para eliminar o caos na área de recebimento e despacho de mercadorias por meio de excursões no polo de confecções.
 
 ## 🎯 A Problemática Resolvida
 
