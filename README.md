@@ -114,4 +114,4 @@ Para gerar um arquivo `.apk` para testes (distribuição interna), certifique-se
 
 ---
 
-Feito com ❤️ por **[GydeonTheGuardian e Toda Equipe WALFF]**
+Feito com AMOR por **[GydeonTheGuardian e Toda Equipe WALFF]**
